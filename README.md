@@ -4,7 +4,11 @@
 
 About Me
 
-BTech graduate in Electronic and Telecommunication Engineering with a strong foundation in full-stack web development. I combine technical expertise with creative problem-solving to deliver efficient, user-centric solutions.
+Full-stack developer with proven experience in building modern web applications using the MERN stack.
+Combining strong technical skills with a passion for creating intuitive user experiences, I’ve successfully delivered
+scalable solutions that drive business growth. Looking to bring my expertise in React, Node.js, and cloud
+technologies to a dynamic team where I can continue to grow while making meaningful contributions to impactful
+projects
 
 🛠️ Technical Skills
 
@@ -31,9 +35,7 @@ BTech graduate in Electronic and Telecommunication Engineering with a strong fou
 - Enhancing system design skills
 - Contributing to open-source projects
 
-📈 GitHub Stats
 
-[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikMane09&show_icons=true&theme=dark)](https://github.com/PratikMane09)
 
 🤝 Let's Connect
 
