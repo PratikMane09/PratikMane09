@@ -1,15 +1,46 @@
-👋 Hello, I'm Pratik Mane
+👋 Hi, I'm Pratik Mane
 
-🌐 Full Stack Web Developer | 🚀Passionate about crafting digital experiences.
+> Full Stack Web Developer passionate about building innovative digital solutions
 
-📌 About Me : Self-organised and detail-oriented fresh graduate with a BTech in Electronic And Telecommunication Engineering, enthusiastic about contributing knowledge and skills of programming Languages, technical knowledge and communication.
+About Me
 
-💡 Problem-Solving : I thrive on solving complex challenges. Whether it's optimizing code for performance, troubleshooting intricate bugs, or architecting robust systems, I approach each task with a solution-oriented mindset and an unwavering commitment to quality.
+BTech graduate in Electronic and Telecommunication Engineering with a strong foundation in full-stack web development. I combine technical expertise with creative problem-solving to deliver efficient, user-centric solutions.
 
-🧰 Tech Stack : Front-End: HTML5, CSS3, JavaScript, React Back-End: Node.js, Express.js, MongoDB Tools: Git, VS Code
+🛠️ Technical Skills
 
-📚 Lifelong Learning In the fast-paced tech landscape, continuous learning is key. I'm dedicated to staying up-to-date with the latest industry trends and enhancing my skills to ensure that I deliver top-tier solutions to every project.
+- **Frontend:** React.js, Next.js, Redux, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, RESTful APIs, RBAC, JWT
+- **Database:** MongoDB, SQL
+- **DevOps:** Docker, Jenkins, CI/CD
+- **Tools:** Git, VS Code, Postman, APIDOG, npm
+- **Testing:** Jest, Chai, Mocha
 
-🤝 Let's Connect I'm always eager to connect with fellow developers, tech enthusiasts, and anyone interested in web development. Don't hesitate to reach out, and let's embark on a coding journey together!
+💡 What I Do
 
-📫 Contact Me : 📧 Email: Pratik09092001@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/pratik-mane-09s09/
+- Design and develop scalable web applications
+- Implement responsive and intuitive user interfaces
+- Build robust backend systems and APIs
+- Optimize application performance
+- Write clean, maintainable code
+- Collaborate effectively in cross-functional teams
+
+🌱 Current Focus
+
+- Deepening expertise in Next.js and React
+- Exploring microservices architecture
+- Enhancing system design skills
+- Contributing to open-source projects
+
+📈 GitHub Stats
+
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratikMane09&show_icons=true&theme=dark)](https://github.com/PratikMane09)
+
+🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-mane-09s09/)
+- 📧 [Email](mailto:Pratik09092001@gmail.com)
+- 🌐 [Portfolio](https://pratikmane-portfolio.netlify.app/)
+
+---
+
+💻 Open for collaboration on interesting projects
